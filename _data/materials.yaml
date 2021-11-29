@@ -1411,7 +1411,7 @@ introduction/galaxy-intro-short/slides_cat:
   description: |
       Esta breve introducción a Galaxy le dirá por qué es tan bueno para la accesibilidad, reproducibilidad y sostenibilidad de la formación en bioinformática.
   material:
-  - link: topics/introduction/tutorials/galaxy-intro-short/slides_cat_es.html
+  - link: topics/introduction/tutorials/galaxy-intro-short/slides_CAT_ES.html
     title: Una breve introducción a Galaxy
     type: Diapositivas
   name: 'Una breve introducción a Galaxy (Diapositivas)'
@@ -1477,9 +1477,10 @@ introduction/galaxy-intro-short/tutorial_cat:
   description: |
       Esta es su oportunidad de aprender a navegar por Galaxy, antes de comenzar a usarlo para analizar datos de una sola celda. Cuando haya terminado, asegúrese de guardar su primer historial (¡sin importar cuántos errores haya!) Para enviarlo al final del taller. Tenga en cuenta que este video no está traducido, pero puede acceder a los subtítulos en español automatizados desde la opción 'Configuración' después de seleccionar 'Reproducir'.
   material:
-  - link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org%2Ftopics%2Fintroduction%2Ftutorials%2Fgalaxy-intro-short%2Ftutorial.html&edit-text=&act=url"
+  - link: "https://training-galaxyproject-org.translate.goog/topics/introduction/tutorials/galaxy-intro-short/tutorial.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=nl&_x_tr_pto=nui"
     title: Una breve introducción a Galaxy
     type: Tutorial
+    external: true
   name: 'Una breve introducción a Galaxy (Tutorial)'
   type: Tutorial con video tutorial
   support_channel: "#1_galaxy-cat"
@@ -1552,7 +1553,7 @@ transcriptomics/scrna-intro/slides_cat:
     hacen posible sacar nuevas conclusiones que de otro modo no serían posibles
     con la secuencia de ARN masiva. * Diapositivas creadas por Mehmet Tekman *
   material:
-  - link: topics/transcriptomics/tutorials/scrna-intro/slides_cat-es.html
+  - link: topics/transcriptomics/tutorials/scrna-intro/slides_CAT_ES.html
     title: Introducción al análisis de datos de scRNA-Seq
     type: Diapositivas
   name: Introducción al análisis de datos de scRNA-Seq
@@ -1627,6 +1628,7 @@ transcriptomics/droplet-quantification-preprocessing/tutorial_cat:
   material:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html&edit-text=&act=url"
+    external: true
   type: Tutorial con video tutorial
   support_channel: "#3_scrna-alevin-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02N1RM81QU"
@@ -1694,6 +1696,7 @@ transcriptomics/scrna-seq-basic-pipeline/tutorial_cat:
   material:
   - type: Tutorial
     link: "https://translate.google.com/translate?hl=jp&sl=en&tl=es&u=https%3A%2F%2Ftraining.galaxyproject.org/topics/transcriptomics/tutorials/scrna-seq-basic-pipeline/tutorial.html&edit-text=&act=url"
+    external: true
   type: Tutorial con video tutorial
   support_channel: "#4_scrna-final-cat"
   support_link: "https://gtnsmrgsbord.slack.com/archives/C02MWKLEY5B"
